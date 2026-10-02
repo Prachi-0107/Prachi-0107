@@ -1,0 +1,76 @@
+name: Generate Hawkins Telemetry Visuals
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  telemetry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+
+      - name: Generate 3D Isometric Contributions
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: radical
+
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=FF1F3D&color_dots=1A1018,3A1220,6B1830,B3122B,FF1F3D
+
+      - name: Consolidate Output Files
+        run: |
+          mkdir -p output-dist
+          if [ -d "dist" ]; then
+            cp -r dist/* output-dist/
+          fi
+          if [ -d "profile-3d-contrib" ]; then
+            cp -r profile-3d-contrib output-dist/
+            cp profile-3d-contrib/* output-dist/ 2>/dev/null || true
+          fi
+          if [ -d "profile-summary-card-output" ]; then
+            cp -r profile-summary-card-output output-dist/
+            if [ -d "profile-summary-card-output/radical" ]; then
+              cp profile-summary-card-output/radical/* output-dist/ 2>/dev/null || true
+            fi
+          fi
+
+      - name: Push Telemetry SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: output-dist
+          keep_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

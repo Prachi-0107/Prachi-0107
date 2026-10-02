@@ -1,88 +1,68 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF4DA6,50:D946EF,100:9D4EDD&text=Prachi%20Shaw&fontColor=FFFFFF&fontSize=48&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Prachi Shaw Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FF1F3D,50:B3122B,100:14101A&text=Prachi%20Shaw&fontColor=FFFFFF&fontSize=56&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20.%20Software%20Developer%20.%20AI%2FML%20Enthusiast&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Hawkins National Laboratory Dossier" />
 
   <br/>
 
-  <!-- Typing Intro -->
+  <!-- Typing Telemetry Line -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF8FCB&center=true&vCenter=true&width=620&lines=Computer+Science+Engineering+Student;Exploring+Software+Engineering+%26+AI%2FML;Building+Impactful+Web+%26+Software+Projects;Turning+Logic%2C+Curiosity+%26+Coffee+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF1F3D&center=true&vCenter=true&width=620&lines=Hawkins+National+Laboratory+.+Subject%3A+Prachi+Shaw;Status%3A+Building+in+the+Upside+Down;Turning+logic%2C+curiosity+and+coffee+into+code" alt="Hawkins Telemetry Typing" />
   </a>
 
-  <!-- Social Badges Row -->
+  <!-- Badges Row -->
   <p align="center">
     <a href="https://www.linkedin.com/in/prachi-shaw-2b21b236b/">
-      <img src="https://img.shields.io/badge/LinkedIn-FF4DA6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=120A1A" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-FF1F3D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B0B10" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="mailto:prachishawwork@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D946EF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=120A1A" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-B3122B?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0B0B10" alt="Email" />
     </a>
     &nbsp;
     <a href="https://github.com/Prachi-0107">
-      <img src="https://img.shields.io/badge/GitHub-C9A7FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=120A1A" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-FF8FCB?style=for-the-badge&logo=github&logoColor=0B0B10&labelColor=0B0B10" alt="GitHub" />
     </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Prachi-0107&color=FF1F3D&style=for-the-badge&label=HAWKINS+DOSSIER+VIEWS" alt="Profile Views" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Degree-B.Tech_CSE-2E7BFF?style=for-the-badge&labelColor=0B0B10" alt="B.Tech CSE" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Class-Year_1-39D98A?style=for-the-badge&labelColor=0B0B10" alt="Year 1" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Base-India-FFB000?style=for-the-badge&labelColor=0B0B10" alt="India" />
   </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6D9,50:FF4DA6,100:D946EF&height=3&section=footer" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1F3D,25:FFB000,50:39D98A,75:2E7BFF,100:FF8FCB&height=3&section=footer" width="100%" alt="Lights Divider" />
 
-## // ABOUT.ME ✨
+## // HAWKINS.INIT() - whoami ⚡
 
-```bash
-> whoami
-Prachi Shaw
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+<pre><code>prachi_shaw:
+  role: B.Tech CSE student and aspiring software developer
+  focus: web apps, PWAs, AI/ML
+  degree: B.Tech CSE (1st year)
+  based_in: India
+  currently_learning: [DSA in Java and C, ML with Python, full-stack TypeScript]
+  status: building</code></pre>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Prachi-0107&show_icons=true&bg_color=0B0B10&title_color=FF1F3D&text_color=F3D9E3&icon_color=FF8FCB&border_color=B3122B" alt="Hawkins Telemetry Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
-> degree
-B.Tech in Computer Science & Engineering (1st Year) | India
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1F3D,25:FFB000,50:39D98A,75:2E7BFF,100:FF8FCB&height=3&section=footer" width="100%" alt="Lights Divider" />
 
-> focus
-Software Engineering • AI/ML • Progressive Web Apps
+## // FEATURED_BUILDS[] 🔦
 
-> status
-building, learning & exploring DSA with Java/C and ML with Python...
-```
-
-- **Student Life:** 1st-year B.Tech Computer Science & Engineering student in India, building strong foundations in core computer science, discrete math, and algorithms.
-- **Interests:** Exploring how software engineering and AI/ML intersect to construct intuitive, resilient, and human-centric software applications.
-- **Philosophy:** Learning through building real-world projects, competing in hackathons, and continuously turning curiosity into functional code.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6D9,50:FF4DA6,100:D946EF&height=3&section=footer" width="100%" alt="Divider" />
-
-## // TECH.STACK 🎀
-
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-FF4DA6?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=120A1A" alt="Java" />
-  <img src="https://img.shields.io/badge/C-D946EF?style=for-the-badge&logo=c&logoColor=white&labelColor=120A1A" alt="C" />
-  <img src="https://img.shields.io/badge/TypeScript-C9A7FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=120A1A" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-FFB6D9?style=for-the-badge&logo=javascript&logoColor=120A1A&labelColor=120A1A" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E8A0BF?style=for-the-badge&logo=html5&logoColor=white&labelColor=120A1A" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-FF4DA6?style=for-the-badge&logo=css3&logoColor=white&labelColor=120A1A" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python_(Learning)-D946EF?style=for-the-badge&logo=python&logoColor=white&labelColor=120A1A" alt="Python (Learning)" />
-</p>
-
-### Dev Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-C9A7FF?style=for-the-badge&logo=git&logoColor=white&labelColor=120A1A" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-FFB6D9?style=for-the-badge&logo=github&logoColor=120A1A&labelColor=120A1A" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-E8A0BF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=120A1A" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-FF4DA6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=120A1A" alt="Vercel" />
-</p>
-
-### Concepts
-<p align="left">
-  <img src="https://img.shields.io/badge/Object--Oriented_Programming-D946EF?style=for-the-badge&labelColor=120A1A" alt="OOP" />
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-C9A7FF?style=for-the-badge&labelColor=120A1A" alt="DSA" />
-  <img src="https://img.shields.io/badge/Progressive_Web_Apps-FFB6D9?style=for-the-badge&logo=pwa&logoColor=white&labelColor=120A1A" alt="PWA" />
-  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-E8A0BF?style=for-the-badge&labelColor=120A1A" alt="AI/ML" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6D9,50:FF4DA6,100:D946EF&height=3&section=footer" width="100%" alt="Divider" />
-
-## // FEATURED.PROJECTS 🌸
+*Four signals from the lab - web, PWA, OOP and UI.*
 
 <table width="100%">
   <tr>
@@ -90,25 +70,26 @@ building, learning & exploring DSA with Java/C and ML with Python...
       <h4><a href="https://github.com/Prachi-0107/sahyog-disaster-management-pwa">sahyog-disaster-management-pwa</a></h4>
       <p>Progressive Web App for disaster crisis response and community relief coordination built with React 19 and TypeScript. <!-- TODO: refine --></p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-FF4DA6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=120A1A" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/PWA-D946EF?style=for-the-badge&logo=pwa&logoColor=white&labelColor=120A1A" alt="PWA" />
-        <img src="https://img.shields.io/badge/React_19-C9A7FF?style=for-the-badge&logo=react&logoColor=white&labelColor=120A1A" alt="React 19" />
+        <img src="https://img.shields.io/badge/TypeScript-FF1F3D?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0B0B10" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PWA-FF8FCB?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0B0B10" alt="PWA" />
+        <img src="https://img.shields.io/badge/React_19-2E7BFF?style=for-the-badge&logo=react&logoColor=white&labelColor=0B0B10" alt="React 19" />
       </p>
       <p>
-        <a href="https://sahyog-disaster-management-pwa.vercel.app"><strong>Live Demo ↗</strong></a> &nbsp;|&nbsp;
-        <a href="https://github.com/Prachi-0107/sahyog-disaster-management-pwa"><strong>Source Code ↗</strong></a>
+        <a href="https://sahyog-disaster-management-pwa.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-39D98A?style=for-the-badge&labelColor=0B0B10" alt="Live Demo" /></a>
+        &nbsp;
+        <a href="https://github.com/Prachi-0107/sahyog-disaster-management-pwa"><img src="https://img.shields.io/badge/Repo-FF1F3D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B10" alt="Repo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Prachi-0107/SIHRAILWAYPROJECT">SIHRAILWAYPROJECT</a></h4>
       <p>Smart India Hackathon railway portal featuring dual passenger and operations dashboards with ETA prediction and route mapping. <!-- TODO: refine --></p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-FF4DA6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=120A1A" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/SIH_Hackathon-D946EF?style=for-the-badge&labelColor=120A1A" alt="SIH Hackathon" />
-        <img src="https://img.shields.io/badge/React_19-C9A7FF?style=for-the-badge&logo=react&logoColor=white&labelColor=120A1A" alt="React 19" />
+        <img src="https://img.shields.io/badge/TypeScript-FF1F3D?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0B0B10" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/SIH_Hackathon-FFB000?style=for-the-badge&labelColor=0B0B10" alt="SIH Hackathon" />
+        <img src="https://img.shields.io/badge/React_19-2E7BFF?style=for-the-badge&logo=react&logoColor=white&labelColor=0B0B10" alt="React 19" />
       </p>
       <p>
-        <a href="https://github.com/Prachi-0107/SIHRAILWAYPROJECT"><strong>Source Code ↗</strong></a>
+        <a href="https://github.com/Prachi-0107/SIHRAILWAYPROJECT"><img src="https://img.shields.io/badge/Repo-FF1F3D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B10" alt="Repo" /></a>
       </p>
     </td>
   </tr>
@@ -117,87 +98,151 @@ building, learning & exploring DSA with Java/C and ML with Python...
       <h4><a href="https://github.com/Prachi-0107/OOPSBannerApp">OOPSBannerApp</a></h4>
       <p>Object-oriented Java console banner generator demonstrating OOP principles, modular class structure, and pattern mapping.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-FF4DA6?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=120A1A" alt="Java" />
-        <img src="https://img.shields.io/badge/OOP-D946EF?style=for-the-badge&labelColor=120A1A" alt="OOP" />
-        <img src="https://img.shields.io/badge/Console_App-C9A7FF?style=for-the-badge&labelColor=120A1A" alt="Console App" />
+        <img src="https://img.shields.io/badge/Java-FF1F3D?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0B0B10" alt="Java" />
+        <img src="https://img.shields.io/badge/OOP-B3122B?style=for-the-badge&labelColor=0B0B10" alt="OOP" />
+        <img src="https://img.shields.io/badge/Console_App-FF8FCB?style=for-the-badge&labelColor=0B0B10" alt="Console App" />
       </p>
       <p>
-        <a href="https://github.com/Prachi-0107/OOPSBannerApp"><strong>Source Code ↗</strong></a>
+        <a href="https://github.com/Prachi-0107/OOPSBannerApp"><img src="https://img.shields.io/badge/Repo-FF1F3D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B10" alt="Repo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Prachi-0107/amazon-gimmick">amazon-gimmick</a></h4>
       <p>An e-commerce prototype exploring responsive UI structure and semantic styling with HTML and CSS.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-FF4DA6?style=for-the-badge&logo=html5&logoColor=white&labelColor=120A1A" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-D946EF?style=for-the-badge&logo=css3&logoColor=white&labelColor=120A1A" alt="CSS3" />
-        <img src="https://img.shields.io/badge/UI_Prototype-C9A7FF?style=for-the-badge&labelColor=120A1A" alt="UI Prototype" />
+        <img src="https://img.shields.io/badge/HTML5-FF1F3D?style=for-the-badge&logo=html5&logoColor=white&labelColor=0B0B10" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-2E7BFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0B0B10" alt="CSS3" />
+        <img src="https://img.shields.io/badge/UI_Prototype-FFB000?style=for-the-badge&labelColor=0B0B10" alt="UI Prototype" />
       </p>
       <p>
-        <a href="https://github.com/Prachi-0107/amazon-gimmick"><strong>Source Code ↗</strong></a>
+        <a href="https://github.com/Prachi-0107/amazon-gimmick"><img src="https://img.shields.io/badge/Repo-FF1F3D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B10" alt="Repo" /></a>
       </p>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6D9,50:FF4DA6,100:D946EF&height=3&section=footer" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1F3D,25:FFB000,50:39D98A,75:2E7BFF,100:FF8FCB&height=3&section=footer" width="100%" alt="Lights Divider" />
 
-## // GITHUB.STATS 💖
+## // ARSENAL 💀
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,ts,js,html,css,git,github,vercel,vscode&perline=11" alt="Arsenal Skills Grid" />
+</div>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Languages</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Java-FF1F3D?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0B0B10" alt="Java" />
+        <img src="https://img.shields.io/badge/C-B3122B?style=for-the-badge&logo=c&logoColor=white&labelColor=0B0B10" alt="C" />
+        <img src="https://img.shields.io/badge/TypeScript-2E7BFF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0B0B10" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-FFB000?style=for-the-badge&logo=javascript&logoColor=0B0B10&labelColor=0B0B10" alt="JavaScript" />
+      </p>
+      <h4>Web Architecture</h4>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-FF1F3D?style=for-the-badge&logo=html5&logoColor=white&labelColor=0B0B10" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-2E7BFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=0B0B10" alt="CSS3" />
+        <img src="https://img.shields.io/badge/PWA-FF8FCB?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0B0B10" alt="PWA" />
+        <img src="https://img.shields.io/badge/React_19-39D98A?style=for-the-badge&logo=react&logoColor=white&labelColor=0B0B10" alt="React 19" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>AI / Machine Learning</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-39D98A?style=for-the-badge&logo=python&logoColor=white&labelColor=0B0B10" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FFB000?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0B0B10" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-FF1F3D?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0B0B10" alt="Scikit-Learn" />
+      </p>
+      <h4>Tools & Environment</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-FF1F3D?style=for-the-badge&logo=git&logoColor=white&labelColor=0B0B10" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-FF8FCB?style=for-the-badge&logo=github&logoColor=0B0B10&labelColor=0B0B10" alt="GitHub" />
+        <img src="https://img.shields.io/badge/VS_Code-2E7BFF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0B0B10" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Vercel-0B0B10?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0B10" alt="Vercel" />
+      </p>
+      <h4>Current Learning</h4>
+      <p>
+        <img src="https://img.shields.io/badge/DSA_(Java_%26_C)-FFB000?style=for-the-badge&labelColor=0B0B10" alt="DSA" />
+        <img src="https://img.shields.io/badge/Full--Stack_TS-FF8FCB?style=for-the-badge&labelColor=0B0B10" alt="Full-Stack TS" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1F3D,25:FFB000,50:39D98A,75:2E7BFF,100:FF8FCB&height=3&section=footer" width="100%" alt="Lights Divider" />
+
+## // SCOREBOARD - high scores ✨
+
+| Achievement | Detail | When |
+| :--- | :--- | :--- |
+| **Smart India Hackathon (SIH)** | Engineered railway operations & passenger portal prototype (`SIHRAILWAYPROJECT`) | 2026 |
+| **AI-ML Recruitment 2026** | Implemented & evaluated MNIST handwritten digit neural network classifier using TensorFlow & Keras (`AIML-Recruitment-2026-PRACHI-SHAW`) | 2026 |
+| **Google Developer Groups (GDG)** | Authored and packaged QR Code Generator App application prototype (`GDG-PRACHISHAW`) | 2026 |
+| <!-- TODO: add awards here --> | <!-- TODO: add awards detail here --> | <!-- TODO: add date --> |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1F3D,25:FFB000,50:39D98A,75:2E7BFF,100:FF8FCB&height=3&section=footer" width="100%" alt="Lights Divider" />
+
+## // THE_UPSIDE_DOWN - live telemetry
+
+<div align="center">
+
+  <!-- Pacman Arcade Contribution Graph -->
+  <img src="https://raw.githubusercontent.com/Prachi-0107/Prachi-0107/output/pacman-contribution-graph-dark.svg" alt="Pacman Arcade Contribution Graph" width="100%" />
+
+  <br/><br/>
+
+  <!-- 3D Isometric Contribution Graph -->
+  <img src="https://raw.githubusercontent.com/Prachi-0107/Prachi-0107/output/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
+
+  <br/><br/>
+
+  <!-- Profile Summary Cards -->
   <table border="0">
     <tr align="center">
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Prachi-0107&show_icons=true&bg_color=120A1A&title_color=FF4DA6&text_color=F5D0E6&icon_color=C9A7FF&border_color=D946EF" alt="GitHub Stats" />
+        <img src="https://raw.githubusercontent.com/Prachi-0107/Prachi-0107/output/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Languages Donut" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-0107&layout=compact&bg_color=120A1A&title_color=FF4DA6&text_color=F5D0E6&border_color=D946EF" alt="Top Languages" />
+        <img src="https://raw.githubusercontent.com/Prachi-0107/Prachi-0107/output/profile-summary-card-output/radical/3-stats.svg" alt="Profile Stats" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=Prachi-0107&background=120A1A&border=D946EF&ring=FF4DA6&fire=D946EF&currStreakLabel=FFB6D9&sideLabels=F5D0E6&dates=C9A7FF&currStreakNum=FF4DA6" alt="GitHub Streak" />
+  <!-- Telemetry Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Prachi-0107&background=0B0B10&border=B3122B&ring=FF1F3D&fire=FF8FCB&currStreakLabel=FFB000&sideLabels=F3D9E3&dates=2E7BFF&currStreakNum=FF1F3D" alt="GitHub Streak Stats" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6D9,50:FF4DA6,100:D946EF&height=3&section=footer" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1F3D,25:FFB000,50:39D98A,75:2E7BFF,100:FF8FCB&height=3&section=footer" width="100%" alt="Lights Divider" />
 
-## // CONTRIBUTION.SNAKE
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Prachi-0107/Prachi-0107/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB6D9,50:FF4DA6,100:D946EF&height=3&section=footer" width="100%" alt="Divider" />
-
-## // LET'S.CONNECT 🦋
+## // OPEN_THE_GATE 🎀
 
 <p align="center">
-  Always excited to connect with fellow builders, collaborate on impactful software, or exchange ideas around AI/ML and web architectures!
+  Transmitting coordinates from Hawkins: let's connect, collaborate on resilient systems, or exchange ideas around AI/ML and software engineering.
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prachi-shaw-2b21b236b/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF4DA6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=120A1A" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF1F3D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B0B10" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:prachishawwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D946EF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=120A1A" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-B3122B?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0B0B10" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Prachi-0107">
-    <img src="https://img.shields.io/badge/GitHub-C9A7FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=120A1A" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-FF8FCB?style=for-the-badge&logo=github&logoColor=0B0B10&labelColor=0B0B10" alt="GitHub" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prachi-0107&color=FF4DA6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:D946EF,100:FF4DA6&height=120&section=footer" width="100%" alt="Footer" />
-  <p align="center"><em>Always curious, always building.</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14101A,50:B3122B,100:FF1F3D&height=120&section=footer" width="100%" alt="Footer" />
+  <p align="center"><em>Always curious. Always building. Friends don't lie - neither does my commit history.</em></p>
 </div>
