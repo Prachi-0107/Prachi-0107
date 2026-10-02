@@ -206,7 +206,7 @@
         <img src="https://raw.githubusercontent.com/Prachi-0107/Prachi-0107/output/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Languages Donut" />
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/Prachi-0107/Prachi-0107/output/profile-summary-card-output/radical/3-stats.svg" alt="Profile Stats" />
+        <img src="https://raw.githubusercontent.com/Prachi-0107/Prachi-0107/output/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Commit Languages" />
       </td>
     </tr>
   </table>
