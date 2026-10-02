@@ -40,7 +40,7 @@ mindset: "Curious, detail-oriented, and passionate about turning conceptual logi
 fun_fact: "Turns caffeine into code commits and has a habit of naming variables way too descriptively."
 ```
 
-- 🎓 **Student Life:** Currently in my 1st year of **Computer Science Engineering**, building a strong foundation in core computer science, discrete math, and software architecture.
+- 🎓 **Student Life:** Currently in my 2nd year of **Computer Science Engineering**, building a strong foundation in core computer science, discrete math, and software architecture.
 - 💡 **Interests:** Driven by how **Software Development** and **AI/ML** intersect to build intuitive, resilient, and human-centric software.
 - 🚀 **Philosophy:** Continuous learning through building real-world projects, participating in hackathons, and collaborating with developer communities.
 - ⚡ **When I'm not coding:** You'll find me exploring tech articles, tweaking UI micro-interactions, or reading about the latest breakthroughs in AI.
