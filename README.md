@@ -29,15 +29,14 @@
 ## 👩‍💻 About Me
 
 ```yaml
-name: Prachi Shaw
-degree: Bachelor of Technology (B.Tech) - Computer Science & Engineering
-location: India 📍
-passions:
+Name: Prachi Shaw
+Degree: Bachelor of Technology (B.Tech) - Computer Science & Engineering
+Location: Chennai, Tamil Nadu, India 
+Passions:
   - Software Engineering & Systems
   - Artificial Intelligence & Machine Learning
   - Modern Web Architectures & PWAs
-mindset: "Curious, detail-oriented, and passionate about turning conceptual logic into scalable digital solutions."
-fun_fact: "Turns caffeine into code commits and has a habit of naming variables way too descriptively."
+Mindset: "Curious, detail-oriented, and passionate about turning conceptual logic into scalable digital solutions."
 ```
 
 - 🎓 **Student Life:** Currently in my 2nd year of **Computer Science Engineering**, building a strong foundation in core computer science, discrete math, and software architecture.
